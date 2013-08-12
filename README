@@ -1,1 +1,7 @@
-Python implementation of MapReduce algorithms. 
+This repo contains Python implementation of MapReduce algorithms for a variety of common data processing tasks
+
+The Python MapReduce framework used faithfully implements the MapReduce programming model, but it executes entirely on a single machine, it does not involve parallel computation. 
+
+The algorithms implemented includes - Word Count, Inverted Index, Sparse matrix multiplication, Counting friends in social network among others.
+
+All the codes take JSON input. 
